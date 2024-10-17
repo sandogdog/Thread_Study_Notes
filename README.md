@@ -44,3 +44,32 @@
 ![image](https://github.com/user-attachments/assets/15d205a2-52c9-40ec-85d5-2585b042b753)
 
 ![image](https://github.com/user-attachments/assets/55ca39dc-5c92-4f08-861f-a3efe7db282a)
+
+---
+
+# 4.线程包括哪些状态，状态之间是如何变化的
+
+![image](https://github.com/user-attachments/assets/adcd5dc1-3ed7-45ff-b09f-cbae966381b8)
+
+![image](https://github.com/user-attachments/assets/872de28a-f516-4f39-832a-f1d956653e5e)
+
+![image](https://github.com/user-attachments/assets/76d83823-3195-4d39-aec9-05d80b4117e3)
+
+---
+
+# 5.线程按顺序执行join、notify和notifyall区别
+
+![image](https://github.com/user-attachments/assets/0e980477-c708-4a50-863c-e42f542a585d)
+
+![image](https://github.com/user-attachments/assets/e04b782f-dc2c-4615-b322-441ed840873d)
+
+---
+
+# 6.Java中wait和sleep方法的不同
+
+![image](https://github.com/user-attachments/assets/bdf22465-11cc-4c71-af15-c343546b6ad8)
+
+---
+
+# 7.如何停止一个正在运行的线程
+
