@@ -73,3 +73,20 @@
 
 # 7.如何停止一个正在运行的线程
 
+![image](https://github.com/user-attachments/assets/c41bcf49-efdd-43fb-8410-ac44f1962391)
+
+---
+
+# 8.synchronized关键字的底层原理
+
+![image](https://github.com/user-attachments/assets/5608cac9-6040-4491-9e72-4cdd232761c8)
+
+![image](https://github.com/user-attachments/assets/9ff94c19-917b-45f9-a3c7-35ce058d1aca)
+
+![image](https://github.com/user-attachments/assets/55f514f9-fa2c-4eda-a277-942768161769)
+
+---
+
+# 9.synchronized关键字的底层原理
+
+ 
