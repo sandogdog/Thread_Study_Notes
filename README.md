@@ -89,4 +89,40 @@
 
 # 9.synchronized关键字的底层原理
 
- 
+![image](https://github.com/user-attachments/assets/2adc7e92-5590-4e1c-908b-155c922ade23)
+
+![image](https://github.com/user-attachments/assets/af438053-2aac-4a0b-a902-1402463452c8)
+
+![image](https://github.com/user-attachments/assets/04cfffde-1aa0-4095-a797-579ed1882d74)
+
+![image](https://github.com/user-attachments/assets/df306579-860d-432f-82d2-6276a3a3a727)
+
+![image](https://github.com/user-attachments/assets/84af8e05-10fc-41af-87c8-5a8c02cb5659)
+
+![image](https://github.com/user-attachments/assets/77c9c9e8-6172-4b3a-8e59-61da6269244d)
+
+![image](https://github.com/user-attachments/assets/7b261c4b-eb48-4091-9d89-97b5f7a6a2a5)
+
+![image](https://github.com/user-attachments/assets/99d5fa7f-4796-4e54-bf3e-cdfb58f2c915)
+
+---
+
+# 10.你谈谈JMM（Java内存模型）
+
+![image](https://github.com/user-attachments/assets/ae244a38-7c04-4468-b4c6-ed46cdc90994)
+
+![image](https://github.com/user-attachments/assets/71d445b9-ee53-4e7d-9e19-fd6f096844b7)
+
+---
+
+# 11.你谈谈对CAS的理解
+
+![image](https://github.com/user-attachments/assets/163b589e-e8f1-4edc-b1b6-53fd1ab38320)
+
+![image](https://github.com/user-attachments/assets/23c834d6-d44e-4535-9359-2ef802f76b36)
+
+![image](https://github.com/user-attachments/assets/f806452d-312a-49b9-9a93-d8399de98d55)
+
+![image](https://github.com/user-attachments/assets/27f6644b-f505-4e2c-9709-3d51503b7d02)
+
+![image](https://github.com/user-attachments/assets/5cbbce19-45ff-49e8-960c-fb13d6ef58db)
