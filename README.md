@@ -126,3 +126,21 @@
 ![image](https://github.com/user-attachments/assets/27f6644b-f505-4e2c-9709-3d51503b7d02)
 
 ![image](https://github.com/user-attachments/assets/5cbbce19-45ff-49e8-960c-fb13d6ef58db)
+
+---
+
+# 12.请谈谈你对volatile的理解
+
+![image](https://github.com/user-attachments/assets/fc351ea0-17f8-41a4-b42d-c1ce4edcef47)
+
+---
+
+# 13.禁止指令重排序
+
+![image](https://github.com/user-attachments/assets/db6f3668-6d1d-4c96-869c-9bb92686e7dd)
+
+![image](https://github.com/user-attachments/assets/15e831a5-c836-4f68-b4e7-9050c44a3ae0)
+
+![image](https://github.com/user-attachments/assets/02fb810f-9ab9-4f75-92a9-f097a6e17027)
+
+![image](https://github.com/user-attachments/assets/d1896aca-0386-4fce-817a-cec5b1376853)
