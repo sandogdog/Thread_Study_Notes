@@ -144,3 +144,13 @@
 ![image](https://github.com/user-attachments/assets/02fb810f-9ab9-4f75-92a9-f097a6e17027)
 
 ![image](https://github.com/user-attachments/assets/d1896aca-0386-4fce-817a-cec5b1376853)
+
+---
+
+# 14.什么是AQS
+
+![image](https://github.com/user-attachments/assets/2169825d-34f5-4210-9e28-ef2a41b547e8)
+
+![image](https://github.com/user-attachments/assets/c27afec1-2955-43d5-b1c7-4e8935e335bd)
+
+![image](https://github.com/user-attachments/assets/636e6358-0b73-4de4-aa4d-769e963b6d8f)
