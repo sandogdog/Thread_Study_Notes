@@ -180,3 +180,19 @@
 ---
 
 # 17.死锁产生的条件是什么
+
+![image](https://github.com/user-attachments/assets/c04a2354-7292-4627-ba9e-4ffe104c0c45)
+
+![image](https://github.com/user-attachments/assets/085d3fc3-fa47-4ad9-b99d-16bc92186509)
+
+![image](https://github.com/user-attachments/assets/77e1cca3-4d25-4922-9c11-197d2d52e448)
+
+![image](https://github.com/user-attachments/assets/4d4d307e-c7de-4b75-b2bd-b2bc6849f842)
+
+![image](https://github.com/user-attachments/assets/0a819ad4-6765-4207-b241-c3a407bfa995)
+
+---
+
+# 18.聊一下ConcurrentHashMap
+
+![image](https://github.com/user-attachments/assets/f75cd231-1f91-4d81-adb2-74c7ee5289fc)
