@@ -196,3 +196,26 @@
 # 18.聊一下ConcurrentHashMap
 
 ![image](https://github.com/user-attachments/assets/f75cd231-1f91-4d81-adb2-74c7ee5289fc)
+
+![image](https://github.com/user-attachments/assets/8252ff57-599f-410e-9a9e-f845a825732f)
+
+![image](https://github.com/user-attachments/assets/3a6cf28e-3267-42d4-9978-8eb6f1aea415)
+
+![image](https://github.com/user-attachments/assets/76ba7a13-e028-41d7-8785-bbfd429b0537)
+
+---
+
+# 19.导致并发程序出现问题的根本原因是什么
+
+![image](https://github.com/user-attachments/assets/e39a2894-de1a-4c00-b500-057d0fce27f3)
+
+![image](https://github.com/user-attachments/assets/2edb5fe5-0830-497d-aab4-b3ba058ba33c)
+
+![image](https://github.com/user-attachments/assets/16775954-66c7-4e33-ab07-e3ebcdce3fd8)
+
+![image](https://github.com/user-attachments/assets/3a3b6864-b1db-44cd-af14-d38a271de22f)
+
+![image](https://github.com/user-attachments/assets/f80579d6-b472-4395-8b7c-a18b2bb0b88f)
+
+![image](https://github.com/user-attachments/assets/99c6b3a3-b68a-4e30-9905-cb60e4f1bc79)
+
