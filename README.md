@@ -154,3 +154,29 @@
 ![image](https://github.com/user-attachments/assets/c27afec1-2955-43d5-b1c7-4e8935e335bd)
 
 ![image](https://github.com/user-attachments/assets/636e6358-0b73-4de4-aa4d-769e963b6d8f)
+
+![image](https://github.com/user-attachments/assets/8f1fc5c4-8fba-4347-bfe2-a0f9f7723ce1)
+
+![image](https://github.com/user-attachments/assets/7ed57728-63f5-4d1f-bb48-d42d0fa13460)
+
+---
+
+# 15.ReentrantLock的实现原理
+
+![image](https://github.com/user-attachments/assets/047aed97-4499-4480-bbf1-c4d2c0e33525)
+
+![image](https://github.com/user-attachments/assets/0ca41e71-2594-4a1a-8b2f-324b06cc0b5e)
+
+![image](https://github.com/user-attachments/assets/693a3101-2db8-42ae-aee6-021e421a90ff)
+
+![image](https://github.com/user-attachments/assets/0eb8da13-95be-42e5-b24b-c30bc6f5a8c4)
+
+---
+
+# 16.synchronized和Lock有什么区别
+
+![image](https://github.com/user-attachments/assets/4fdd3fb2-456a-43bd-8618-e54369dfc7be)
+
+---
+
+# 17.死锁产生的条件是什么
