@@ -219,3 +219,11 @@
 
 ![image](https://github.com/user-attachments/assets/99c6b3a3-b68a-4e30-9905-cb60e4f1bc79)
 
+
+---
+
+# 20.说一下线程池的核心参数
+
+![image](https://github.com/user-attachments/assets/a5df4439-d585-4ffc-985c-550f8282345f)
+
+![image](https://github.com/user-attachments/assets/c50a7c97-50b3-42ab-a49c-28df88744fac)
