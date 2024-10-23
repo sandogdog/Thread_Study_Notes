@@ -227,3 +227,24 @@
 ![image](https://github.com/user-attachments/assets/a5df4439-d585-4ffc-985c-550f8282345f)
 
 ![image](https://github.com/user-attachments/assets/c50a7c97-50b3-42ab-a49c-28df88744fac)
+
+---
+
+# 21.线程池中有哪些常见的阻塞队列
+
+![image](https://github.com/user-attachments/assets/66afb7d2-a90e-4845-a427-4a31576cb0af)
+
+![image](https://github.com/user-attachments/assets/3457ac7b-e736-4568-ba35-40a385557ba0)
+
+---
+
+# 22.如何确定核心线程数
+
+![image](https://github.com/user-attachments/assets/88ef7406-45f8-4be6-852f-06afb931e004)
+
+![image](https://github.com/user-attachments/assets/127acd26-2355-46a0-8e5f-1c1d33057df8)
+
+---
+
+# 23.线程池的种类有哪些
+
