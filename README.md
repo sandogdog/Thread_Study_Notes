@@ -248,3 +248,28 @@
 
 # 23.线程池的种类有哪些
 
+![image](https://github.com/user-attachments/assets/befe3ccf-2c10-41ab-8d75-895b9027d0ad)
+
+![image](https://github.com/user-attachments/assets/1d2823c6-90d4-42fe-be78-d5fe90764695)
+
+![image](https://github.com/user-attachments/assets/e2ac6c07-fb63-4175-bb41-c8d981a788fd)
+
+![image](https://github.com/user-attachments/assets/4dd1dd1d-c813-446b-b285-c05ca6f363cf)
+
+![image](https://github.com/user-attachments/assets/8ce210a1-e689-45f2-b5c7-435c5ea6edf0)
+
+---
+
+# 24.为什么不建议用Executors创建线程池
+
+![image](https://github.com/user-attachments/assets/4ac5be0e-6861-4698-87f3-9f9e8957e18d)
+
+---
+
+# 25.线程池使用场景
+
+![image](https://github.com/user-attachments/assets/3ef90d13-cfda-434c-b8e4-9b9acd3a4ee9)
+
+![image](https://github.com/user-attachments/assets/13d4536a-3350-47e8-856e-451285b3dc1d)
+
+![Uploading image.png…]()
