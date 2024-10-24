@@ -272,4 +272,21 @@
 
 ![image](https://github.com/user-attachments/assets/13d4536a-3350-47e8-856e-451285b3dc1d)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/09b976e4-70c4-43ce-a15d-82da946a048d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8350e453-73c0-49fd-9a24-8eebdcc6db3b)
+
+![image](https://github.com/user-attachments/assets/fa033658-a209-462f-8c99-936603eeff73)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/170cda05-e751-466c-9385-ad75058b780d)
+
+![image](https://github.com/user-attachments/assets/b3e9f929-3d90-44cc-adae-2e2c731da3a6)
+
+---
+
+# 26.如何控制某个方法允许并发访问线程的数量
+
