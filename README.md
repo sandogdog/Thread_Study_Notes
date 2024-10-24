@@ -290,3 +290,28 @@
 
 # 26.如何控制某个方法允许并发访问线程的数量
 
+![image](https://github.com/user-attachments/assets/d51fd9af-04b2-4d39-91a8-d3258e93a9b4)
+
+![image](https://github.com/user-attachments/assets/57e9f092-b42c-4864-a6b6-6d2d82fa1ec6)
+
+![image](https://github.com/user-attachments/assets/cef58437-c3c4-4c62-9276-6595c431da76)
+
+---
+
+# 27.谈谈你对ThreadLocal的理解
+
+![image](https://github.com/user-attachments/assets/c60ac415-5e87-4f8f-a746-e1356bdb3269)
+
+![image](https://github.com/user-attachments/assets/64e95119-5128-44db-af91-af0c8bcad507)
+
+![image](https://github.com/user-attachments/assets/4bb4b130-b082-423f-9491-3cbf5e749916)
+
+![image](https://github.com/user-attachments/assets/e04765da-0750-44df-9aa6-42bb5c45c12b)
+
+![image](https://github.com/user-attachments/assets/7f888c92-fd32-487d-b00a-655540a32938)
+
+![image](https://github.com/user-attachments/assets/3a4e1fc8-9dc6-4703-a43f-84e256f1747b)
+
+![image](https://github.com/user-attachments/assets/2d4276a6-a2fe-453a-b8df-f8d49ee0bc12)
+
+![image](https://github.com/user-attachments/assets/7579562d-80df-4395-9687-312336bcb929)
